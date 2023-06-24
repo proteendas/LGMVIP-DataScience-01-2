@@ -1,4 +1,4 @@
-# LGMVIP-DataScience-01-1
+# LGMVIP-DataScience-01-2
 This repository contains a Data Analytics project, Stock Market Prediction and Forecasting Using Stacked LSTM.
 
 ### Beginner Level 
